@@ -1,31 +1,7 @@
 .AA{
     font-family: Microsoft JhengHei;
     background-color: #28292B;
-    /* background-color: rgb(121, 124, 112); */
-
 }
-
-/* #sidebar{
-    width:20%;
-    float:left;
-    height:280px;
-    text-align:center;
-    line-height:280px;
-    font-size:15px;
-    color:#ffffff;
-    font-weight:bold;
-}
-.container{
-    width:80%;
-    height:280px;
-    text-align:center;
-    line-height:280px;
-    font-size:15px;
-    color:#f9c81e;
-    font-weight:bold;
-    background-color:#fffaf3;
-    float:left;
-} */
 
 .btn-circle.btn-xl {
     width: 50px;
